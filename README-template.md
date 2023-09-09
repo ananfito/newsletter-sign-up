@@ -96,8 +96,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- The following were useful in styling the unordered list: 
+  - [Aligning your lists with your text](https://since1979.dev/aligning-your-lists-with-your-text/)
+  - [How to Control the Space Between Bullets and <li> Elements](https://www.w3docs.com/snippets/html/how-to-control-the-space-between-bullets-and-li-elements.html)
+  - [CSS Lists](https://www.w3schools.com/CSS/css_list.asp)
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
